@@ -1,1 +1,2 @@
-from postgres:15
+FROM postgres:15
+MAINTAINER HZK
