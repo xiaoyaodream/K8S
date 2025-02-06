@@ -1,1 +1,1 @@
-form langgenius/dify-web:latest
+FROM langgenius/dify-web:latest
